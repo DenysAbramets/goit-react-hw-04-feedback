@@ -62,7 +62,7 @@ export function App() {
     </>
   );
 }
-// export class App extends Component {
+// old class App extends Component {
 //   state = {
 //     good: 0,
 //     neutral: 0,
